@@ -11,3 +11,10 @@ git clone https://github.com/tuanrazz/toolpython
 cd toolpython
 python toolpython.py
 ```
+
+## demo script:
+<img src="https://j.top4top.io/p_3489m84ot5.png" width="100%" />
+
+<p align="center">
+  terima kasih
+</p>
