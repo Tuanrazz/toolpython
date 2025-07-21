@@ -8,6 +8,6 @@ pkg install git python -y
 pkg install git
 pip install requests
 git clone https://github.com/tuanrazz/toolpython
-cd tuanrazz
+cd toolpython
 python toolpython.py
 ```
