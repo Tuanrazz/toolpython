@@ -1,4 +1,5 @@
 # toolpython
+script sederhana python untuk belajar 
 
 ## install the termux:
 ```bash
@@ -7,4 +8,6 @@ pkg install git python -y
 pkg install git
 pip install requests
 git clone https://github.com/tuanrazz/toolpython
+cd tuanrazz
+python toolpython.py
 ```
