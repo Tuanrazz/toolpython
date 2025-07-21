@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=tomato&center=true&vCenter=true&width=200&lines=WELCOME" alt="Typing SVG" />
 </p>
-# toolpython
-script sederhana python untuk belajar 
+
+## tools python
+script sederhana python untuk belajar silahkan pakai☺️
 
 ## install the termux:
 ```bash
