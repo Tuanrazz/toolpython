@@ -5,7 +5,7 @@
 ## tools python
 script sederhana python untuk belajar silahkan pakai☺️
 
-## install the termux:
+## install in termux:
 ```bash
 pkg update && pkg upgrade
 pkg install git python -y
